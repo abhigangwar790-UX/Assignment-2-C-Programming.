@@ -16,7 +16,7 @@ struct Student {
 };
 
 int main() {
-    struct Student s1 = {1, "Rajat", 89.5};
+    struct Student s1 = {1, "Abhinav", 89.5};
 
     printf("Student ID: %d\n", s1.id);
     printf("Name: %s\n", s1.name);
@@ -28,7 +28,7 @@ int main() {
 Output:
 
 Student ID: 1
-Name: Rajat
+Name: Abhinav 
 Marks: 89.50
 
 
